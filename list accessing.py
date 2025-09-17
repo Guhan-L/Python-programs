@@ -1,0 +1,11 @@
+l=[1,6,18,5,34]
+print(l)
+print(l[0])
+print(l[-1])
+print(l[2])
+print(l[-3:])
+print(l[2:6])
+l.extend([2,11,9])
+print(l)
+l.insert(4,5)
+print(l)
